@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Oscar David Pinzon and I'm currently working as a Software Architect at an international development company.
+I'm passionate about continuously enhancing my skill set and staying on top of emerging technologies. Right now, I'm focused on completing my academic journey to complement my professional expertise, ensuring that I keep growing and evolving in this fast-paced industry.
 <!--
 **odpinzon/odpinzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
